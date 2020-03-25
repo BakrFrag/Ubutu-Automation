@@ -94,4 +94,7 @@ sudo apt install openssh-server
 
 sudo apt-get install sqlite3
 
-# 
+# install python3 idle
+
+sudo apt-get install idle3
+
