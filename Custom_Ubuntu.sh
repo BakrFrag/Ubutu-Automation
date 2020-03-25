@@ -89,3 +89,9 @@ sudo apt-get install redis-server
 # install ssh server
 
 sudo apt install openssh-server
+
+# install sqlite3 database 
+
+sudo apt-get install sqlite3
+
+# 
