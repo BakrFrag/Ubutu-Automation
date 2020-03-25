@@ -50,3 +50,8 @@ sudo apt install default-jdk
 # install docker 
 
 sudo apt install docker.io
+
+# install git version control
+
+sudo apt-get install git 
+
