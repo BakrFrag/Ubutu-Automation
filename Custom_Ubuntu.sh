@@ -18,3 +18,10 @@ sudo apt-get install libsqlite3-dev
 
 # Install Python3 Pip 
 sudo apt-get install python3-pip
+
+# install python packages
+
+sudo pip3 install flask django djnagorestframework jupyter psycopg2 coreapi 
+suso pip3 install requests bs4
+
+
