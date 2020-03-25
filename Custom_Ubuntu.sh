@@ -55,3 +55,13 @@ sudo apt install docker.io
 
 sudo apt-get install git 
 
+# get settings 
+
+# set username for github 
+sudo git config --global user.username "Github User Name"
+# set email for github
+sudo git config --global user.email "Github Email"
+# set password for github 
+sudo git config --global user.password "Github Password"
+# store credential for pushing and getting  
+sudo git config --global credential.helper store 
