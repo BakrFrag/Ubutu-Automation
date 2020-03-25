@@ -69,3 +69,7 @@ sudo git config --global credential.helper store
 # install gnome tweak tools 
 
 sudo apt-get install gnome-tweak-tool
+
+# install gparted tool 
+
+sudo apt-get install gparted
