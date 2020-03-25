@@ -73,3 +73,8 @@ sudo apt-get install gnome-tweak-tool
 # install gparted tool 
 
 sudo apt-get install gparted
+
+# install g++ c++ complier
+
+sudo apt-get install g++
+
