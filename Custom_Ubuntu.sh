@@ -81,3 +81,9 @@ sudo apt-get install g++
 # install common used packages within ubuntu 
 
 sudo apt-get install apt-transport-https ca-certificates software-properties-common
+
+# install redis 
+
+sudo apt-get install redis-server
+
+# install 
