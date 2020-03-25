@@ -98,3 +98,7 @@ sudo apt-get install sqlite3
 
 sudo apt-get install idle3
 
+# enable tree view in ubuntu dconf-editor
+
+sudo apt-get install dconf-editor
+
