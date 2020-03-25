@@ -65,3 +65,7 @@ sudo git config --global user.email "Github Email"
 sudo git config --global user.password "Github Password"
 # store credential for pushing and getting  
 sudo git config --global credential.helper store 
+
+# install gnome tweak tools 
+
+sudo apt-get install gnome-tweak-tool
