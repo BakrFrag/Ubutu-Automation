@@ -24,4 +24,18 @@ sudo apt-get install python3-pip
 sudo pip3 install flask django djnagorestframework jupyter psycopg2 coreapi 
 suso pip3 install requests bs4
 
+# install mysql server mysql workbench
+
+sudo apt-get install mysql-server
+sudo apt-get install mysql-workbench
+
+# install curl
+
+sudo apt-get install curl
+
+# install snap package manager 
+
+ sudo apt-get install snap
+
+ # install vlc , postman via snap 
 
