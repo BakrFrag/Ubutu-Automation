@@ -86,4 +86,6 @@ sudo apt-get install apt-transport-https ca-certificates software-properties-com
 
 sudo apt-get install redis-server
 
-# install 
+# install ssh server
+
+sudo apt install openssh-server
