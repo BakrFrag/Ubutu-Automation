@@ -39,3 +39,14 @@ sudo apt-get install curl
 
  # install vlc , postman via snap 
 
+sudo snap install vlc 
+
+sudo snap install postman
+
+# install java 
+
+sudo apt install default-jdk
+
+# install docker 
+
+sudo apt install docker.io
